@@ -5,3 +5,4 @@
 - **Favorite Food:** Strawberries
 - **A hobby:** Playing videogames
 - **Favorite color:** Red
+- **Pet name:** Asis
